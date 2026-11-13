@@ -132,7 +132,7 @@ Independent automation frameworks and practical projects demonstrating API, UI, 
 
 ## Education
 
-- B.Tech – GLNA Institute of Technology
+- Bachelor of Technology
 
 ## Contact
 
