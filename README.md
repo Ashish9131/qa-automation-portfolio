@@ -2,7 +2,7 @@
 
 Welcome to my QA Automation Portfolio!
 
-I am a QA Automation Engineer with 7 years of experience in designing, developing, and maintaining automation frameworks for API, UI, mobile, and end-to-end testing.
+I am a QA Automation Engineer with 8 years of experience in designing, developing, and maintaining automation frameworks for API, UI, mobile, and end-to-end testing.
 
 ## Technical Skills
 
